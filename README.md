@@ -280,6 +280,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[WebDataSource](https://webdatasource.com/releases/latest/mcp/index.html)** - Web Crawler for AI Agents. Supercharge your AI agents with an MCP-ready web crawler that delivers real-time insights from the web and your private knowledge bases.
 - **[Webflow](https://github.com/webflow/mcp-server)** - Interact with Webflow APIs to list and edit your site and CMS data.
 - **[WebScraping.AI](https://github.com/webscraping-ai/webscraping-ai-mcp-server)** - Interact with **[WebScraping.AI](https://WebScraping.AI)** for web data extraction and scraping.
+- **[Wenlan](https://github.com/7xuanlu/wenlan)** - Local-first, source-backed AI knowledge base and LLM wiki. Distills agent work into maintained, citation-gated wiki pages served over MCP to Claude Code, Codex, Cursor and other clients. Rust, Apache 2.0.
 - **[Willi MaKo Knowledge Service](https://mcp.stromhaltig.de)** - A knowledge service for Germany's complex Energy Market Communications (MaKo) regulations.
 - **[Winston AI](https://github.com/gowinston-ai/winston-ai-mcp-server)** - AI detector MCP server with industry leading accuracy rates in detecting use of AI in text and images. The [Winston AI](https://gowinston.ai) MCP server also offers a robust plagiarism checker to help maintain integrity.
 - **[Xero](https://github.com/XeroAPI/xero-mcp-server)** - Interact with the accounting data in your business using our official MCP server
